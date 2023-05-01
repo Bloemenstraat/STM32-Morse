@@ -1,0 +1,8 @@
+../Core/Src/LiquidCrystal.c:28:6:delay	16	static
+../Core/Src/LiquidCrystal.c:36:6:send_to_lcd	16	static
+../Core/Src/LiquidCrystal.c:52:6:LCD_SendCmd	24	static
+../Core/Src/LiquidCrystal.c:65:6:LCD_SendData	24	static
+../Core/Src/LiquidCrystal.c:78:6:LCD_Clear	8	static
+../Core/Src/LiquidCrystal.c:84:6:LCD_PutCur	16	static
+../Core/Src/LiquidCrystal.c:102:6:LCD_Init	8	static
+../Core/Src/LiquidCrystal.c:128:6:LCD_SendString	16	static
