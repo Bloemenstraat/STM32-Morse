@@ -14,5 +14,7 @@ The lights indicate when an action has been made or cancelled.
 
 ## Examples
 
-https://github.com/Bloemenstraat/STM32-Telegraph/assets/20916233/90bac947-24d3-47e4-b335-28cd6b93cb1d
+https://github.com/Bloemenstraat/STM32-Telegraph/assets/20916233/051a3285-e3bd-4abc-a4cb-9cfc8786ca7f
+
+https://github.com/Bloemenstraat/STM32-Telegraph/assets/20916233/d03144be-6ac1-4e2b-9279-68fd77b2e77f
 
