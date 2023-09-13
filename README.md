@@ -13,3 +13,6 @@ The lights indicate when an action has been made or cancelled.
 - If more than 3 seconds elapse since the last command, the command stack is cleared and the red light blinks for 250ms.
 
 ## Examples
+
+https://github.com/Bloemenstraat/STM32-Telegraph/assets/20916233/90bac947-24d3-47e4-b335-28cd6b93cb1d
+
